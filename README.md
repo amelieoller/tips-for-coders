@@ -13,6 +13,11 @@
 - Productivity application for macOS
 - Link to useful workflows?
 
+### [GitKraken](https://www.gitkraken.com/)
+
+- Git GUI for all platform
+- Useful visuals of Git actions and project structure
+
 ### [Trash](https://hasseg.org/trash/)
 
 - Stop using `rm -rf` (delete files forever), use `trash` (move files to the trash) instead
