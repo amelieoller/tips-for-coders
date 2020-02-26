@@ -83,3 +83,17 @@
 - Description: Ruby language support and debugging for Visual Studio Code
 - Publisher: Peng Lv
 - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
+
+## Hosting
+
+### Providers
+
+- [Heroku](https://www.heroku.com/)
+- [Firebase](https://firebase.google.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/)
+
+### Articles
+
+- [Hosting your Rails Project on Heroku by Dawn Cronin](https://dev.to/dawncronin/hosting-your-rails-projects-to-heroku-542)
+
